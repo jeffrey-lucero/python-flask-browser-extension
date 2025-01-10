@@ -1,0 +1,163 @@
+
+2024-12-26 10:40:17,381 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\download_1.jpg
+2024-12-26 10:40:23,644 - Successfully moved: download.jpg -> N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\download_1.jpg
+2024-12-26 10:42:37,000 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 10:42:37,000 - [33mPress CTRL+C to quit[0m
+2024-12-26 10:43:01,980 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\vardump\test\download.jpg
+2024-12-26 10:43:01,985 - Successfully moved: download.jpg -> C:\vardump\test\download.jpg
+2024-12-26 10:43:49,812 - 127.0.0.1 - - [26/Dec/2024 10:43:49] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 10:43:50,826 - 127.0.0.1 - - [26/Dec/2024 10:43:50] "POST /update_directory HTTP/1.1" 200 -
+2024-12-26 10:44:01,991 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\download.jpg
+2024-12-26 10:44:07,982 - Successfully moved: download.jpg -> N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\download.jpg
+2024-12-26 10:45:52,993 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\download_1.jpg
+2024-12-26 10:45:58,250 - Successfully moved: download.jpg -> N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\download_1.jpg
+2024-12-26 10:48:18,262 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\download_2.jpg
+2024-12-26 10:48:23,771 - Successfully moved: download.jpg -> N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\download_2.jpg
+2024-12-26 10:48:49,887 - 127.0.0.1 - - [26/Dec/2024 10:48:49] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 10:48:50,656 - 127.0.0.1 - - [26/Dec/2024 10:48:50] "POST /update_directory HTTP/1.1" 200 -
+2024-12-26 10:49:03,777 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\StarTrack 1666\download.jpg
+2024-12-26 10:49:10,520 - Successfully moved: download.jpg -> N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\StarTrack 1666\download.jpg
+2024-12-26 10:49:43,412 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 10:49:43,413 - [33mPress CTRL+C to quit[0m
+2024-12-26 10:49:58,392 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\vardump\test\download_1.jpg
+2024-12-26 10:49:58,397 - Successfully moved: download.jpg -> C:\vardump\test\download_1.jpg
+2024-12-26 10:50:05,218 - 127.0.0.1 - - [26/Dec/2024 10:50:05] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 10:50:05,980 - 127.0.0.1 - - [26/Dec/2024 10:50:05] "POST /update_directory HTTP/1.1" 200 -
+2024-12-26 10:50:23,897 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\StarTrack 1666\download_1.jpg
+2024-12-26 10:50:29,662 - Successfully moved: download.jpg -> N:\Payroll_Timesheets\2024 TIMESHEETS\Client Uploads - Project\StarTrack 1666\download_1.jpg
+2024-12-26 10:54:46,362 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 10:54:46,362 - [33mPress CTRL+C to quit[0m
+2024-12-26 10:55:01,588 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 10:55:01,588 - [33mPress CTRL+C to quit[0m
+2024-12-26 11:01:28,379 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 11:01:28,379 - [33mPress CTRL+C to quit[0m
+2024-12-26 11:01:53,363 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\Users\jeffreyC\Downloads\download_1.jpg
+2024-12-26 11:01:53,366 - Successfully moved: download.jpg -> C:\Users\jeffreyC\Downloads\download_1.jpg
+2024-12-26 11:01:58,367 - Moving file: download_1.jpg from C:\Users\jeffreyC/Downloads\download_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1.jpg
+2024-12-26 11:01:58,370 - Successfully moved: download_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1.jpg
+2024-12-26 11:02:03,371 - Moving file: download_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1.jpg
+2024-12-26 11:02:03,374 - Successfully moved: download_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1.jpg
+2024-12-26 11:02:08,375 - Moving file: download_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1.jpg
+2024-12-26 11:02:08,384 - Successfully moved: download_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1.jpg
+2024-12-26 11:02:13,386 - Moving file: download_1_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1_1.jpg
+2024-12-26 11:02:13,395 - Successfully moved: download_1_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1_1.jpg
+2024-12-26 11:02:18,397 - Moving file: download_1_1_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1_1_1.jpg
+2024-12-26 11:02:18,400 - Successfully moved: download_1_1_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1_1_1.jpg
+2024-12-26 11:02:53,521 - Moving file: download_1_1_1_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1_1_1_1.jpg
+2024-12-26 11:02:53,524 - Successfully moved: download_1_1_1_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1_1_1_1.jpg
+2024-12-26 11:02:53,543 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 11:02:53,543 - [33mPress CTRL+C to quit[0m
+2024-12-26 11:02:58,525 - Moving file: download_1_1_1_1_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1_1_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1_1_1_1_1.jpg
+2024-12-26 11:02:58,528 - Successfully moved: download_1_1_1_1_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1_1_1_1_1.jpg
+2024-12-26 11:03:23,532 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\Users\jeffreyC\Downloads\download_1.jpg
+2024-12-26 11:03:23,541 - Successfully moved: download.jpg -> C:\Users\jeffreyC\Downloads\download_1.jpg
+2024-12-26 11:03:28,543 - Moving file: download_1.jpg from C:\Users\jeffreyC/Downloads\download_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1.jpg
+2024-12-26 11:03:28,550 - Successfully moved: download_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1.jpg
+2024-12-26 11:03:33,553 - Moving file: download_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1.jpg
+2024-12-26 11:03:33,562 - Successfully moved: download_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1.jpg
+2024-12-26 11:03:38,563 - Moving file: download_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1.jpg
+2024-12-26 11:03:38,566 - Successfully moved: download_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1.jpg
+2024-12-26 11:03:43,567 - Moving file: download_1_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1_1.jpg
+2024-12-26 11:03:43,570 - Successfully moved: download_1_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1_1.jpg
+2024-12-26 11:03:59,430 - Moving file: download_1_1_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1_1_1.jpg to C:\vardump\test\download_1_1_1_1_1.jpg
+2024-12-26 11:03:59,433 - Successfully moved: download_1_1_1_1_1.jpg -> C:\vardump\test\download_1_1_1_1_1.jpg
+2024-12-26 11:03:59,457 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 11:03:59,458 - [33mPress CTRL+C to quit[0m
+2024-12-26 11:04:09,435 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\vardump\test\download_2.jpg
+2024-12-26 11:04:09,438 - Successfully moved: download.jpg -> C:\vardump\test\download_2.jpg
+2024-12-26 11:06:58,478 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 11:06:58,478 - [33mPress CTRL+C to quit[0m
+2024-12-26 11:07:08,457 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\Users\jeffreyC\Downloads\download_1.jpg
+2024-12-26 11:07:08,459 - Successfully moved: download.jpg -> C:\Users\jeffreyC\Downloads\download_1.jpg
+2024-12-26 11:07:13,461 - Moving file: download_1.jpg from C:\Users\jeffreyC/Downloads\download_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1.jpg
+2024-12-26 11:07:13,470 - Successfully moved: download_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1.jpg
+2024-12-26 11:07:18,471 - Moving file: download_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1.jpg
+2024-12-26 11:07:18,474 - Successfully moved: download_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1.jpg
+2024-12-26 11:07:23,474 - Moving file: download_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1.jpg
+2024-12-26 11:07:23,477 - Successfully moved: download_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1.jpg
+2024-12-26 11:07:28,478 - Moving file: download_1_1_1_1.jpg from C:\Users\jeffreyC/Downloads\download_1_1_1_1.jpg to C:\Users\jeffreyC\Downloads\download_1_1_1_1_1.jpg
+2024-12-26 11:07:28,480 - Successfully moved: download_1_1_1_1.jpg -> C:\Users\jeffreyC\Downloads\download_1_1_1_1_1.jpg
+2024-12-26 11:11:51,254 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 11:11:51,255 - [33mPress CTRL+C to quit[0m
+2024-12-26 11:12:01,234 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\vardump\test\test\download.jpg
+2024-12-26 11:12:01,236 - Successfully moved: download.jpg -> C:\vardump\test\test\download.jpg
+2024-12-26 11:12:51,914 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 11:12:51,914 - [33mPress CTRL+C to quit[0m
+2024-12-26 11:13:01,891 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\tempdownload\download.jpg
+2024-12-26 11:13:01,893 - Successfully moved: download.jpg -> C:\tempdownload\download.jpg
+2024-12-26 12:15:33,452 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\tempdownload\download.jpg
+2024-12-26 12:15:33,455 - Successfully moved: download.jpg -> C:\tempdownload\download.jpg
+2024-12-26 12:15:33,552 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 12:15:33,552 - [33mPress CTRL+C to quit[0m
+2024-12-26 12:15:35,269 - 127.0.0.1 - - [26/Dec/2024 12:15:35] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 12:15:35,519 - 127.0.0.1 - - [26/Dec/2024 12:15:35] "[31m[1mPOST /update_directory HTTP/1.1[0m" 400 -
+2024-12-26 12:16:37,060 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2024-12-26 12:16:37,061 - [33mPress CTRL+C to quit[0m
+2024-12-26 12:20:21,871 - 127.0.0.1 - - [26/Dec/2024 12:20:21] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 12:20:22,132 - 127.0.0.1 - - [26/Dec/2024 12:20:22] "[31m[1mPOST /update_directory HTTP/1.1[0m" 400 -
+2024-12-26 12:45:20,599 - 127.0.0.1 - - [26/Dec/2024 12:45:20] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 12:45:20,854 - 127.0.0.1 - - [26/Dec/2024 12:45:20] "POST /update_directory HTTP/1.1" 200 -
+2024-12-26 12:46:07,204 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\Users\jeffreyC\Downloads\New folder\download.jpg
+2024-12-26 12:46:07,210 - Successfully moved: download.jpg -> C:\Users\jeffreyC\Downloads\New folder\download.jpg
+2024-12-26 12:46:50,690 - 127.0.0.1 - - [26/Dec/2024 12:46:50] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 12:46:50,953 - 127.0.0.1 - - [26/Dec/2024 12:46:50] "POST /update_directory HTTP/1.1" 200 -
+2024-12-26 12:47:07,194 - 127.0.0.1 - - [26/Dec/2024 12:47:07] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 12:47:07,498 - 127.0.0.1 - - [26/Dec/2024 12:47:07] "[31m[1mPOST /update_directory HTTP/1.1[0m" 400 -
+2024-12-26 12:47:09,611 - 127.0.0.1 - - [26/Dec/2024 12:47:09] "[31m[1mPOST /update_directory HTTP/1.1[0m" 400 -
+2024-12-26 12:47:27,096 - 127.0.0.1 - - [26/Dec/2024 12:47:27] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 12:47:27,359 - 127.0.0.1 - - [26/Dec/2024 12:47:27] "[31m[1mPOST /update_directory HTTP/1.1[0m" 400 -
+2024-12-26 12:47:38,529 - 127.0.0.1 - - [26/Dec/2024 12:47:38] "OPTIONS /update_directory HTTP/1.1" 200 -
+2024-12-26 12:47:38,849 - 127.0.0.1 - - [26/Dec/2024 12:47:38] "POST /update_directory HTTP/1.1" 200 -
+2024-12-26 12:47:40,112 - 127.0.0.1 - - [26/Dec/2024 12:47:40] "POST /update_directory HTTP/1.1" 200 -
+2024-12-26 12:47:41,095 - 127.0.0.1 - - [26/Dec/2024 12:47:41] "POST /update_directory HTTP/1.1" 200 -
+2024-12-26 12:47:52,221 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\Users\jeffreyC\Downloads\New folder\download_1.jpg
+2024-12-26 12:47:52,226 - Successfully moved: download.jpg -> C:\Users\jeffreyC\Downloads\New folder\download_1.jpg
+2024-12-26 12:48:07,230 - Moving file: download.jpg from C:\Users\jeffreyC/Downloads\download.jpg to C:\Users\jeffreyC\Downloads\New folder\download_2.jpg
+2024-12-26 12:48:07,239 - Successfully moved: download.jpg -> C:\Users\jeffreyC\Downloads\New folder\download_2.jpg
+2025-01-10 09:03:44,113 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.11.13.115:5000
+2025-01-10 09:03:44,114 - [33mPress CTRL+C to quit[0m
+2025-01-10 09:04:23,799 - 127.0.0.1 - - [10/Jan/2025 09:04:23] "OPTIONS /update_directory HTTP/1.1" 200 -
+2025-01-10 09:04:24,055 - 127.0.0.1 - - [10/Jan/2025 09:04:24] "POST /update_directory HTTP/1.1" 200 -
+2025-01-10 09:05:32,136 - 127.0.0.1 - - [10/Jan/2025 09:05:32] "OPTIONS /update_directory HTTP/1.1" 200 -
+2025-01-10 09:05:32,402 - 127.0.0.1 - - [10/Jan/2025 09:05:32] "POST /update_directory HTTP/1.1" 200 -
+2025-01-10 09:06:55,369 - 127.0.0.1 - - [10/Jan/2025 09:06:55] "OPTIONS /update_directory HTTP/1.1" 200 -
+2025-01-10 09:06:55,616 - 127.0.0.1 - - [10/Jan/2025 09:06:55] "POST /update_directory HTTP/1.1" 200 -
